@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.super-box{
+    display: flex;
+    height: 100vh;
+
+}
+.box1{
+    height: 100%;
+    border: 1px solid;
+    width: 10%;
+}
+.box2{
+    border: 1px solid;
+    margin-top:  50px;
+    height: 94%;
+    width: 87%;
+}
+.box2 header{
+    border: 1px solid;
+
+}
+header{
+    
+}
