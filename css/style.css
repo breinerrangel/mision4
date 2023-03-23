@@ -22,7 +22,7 @@
     
     width: 87%;
     height: 90vh;
-    margin-top: 91px;
+    margin-top: 50px;
 }
 .encabezado{
    
@@ -140,6 +140,8 @@ color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: cornsilk;
+    border-bottom: 1px solid;
    
 
 }
@@ -148,6 +150,8 @@ color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: cornsilk;
+    border-bottom: 1px solid;
    
 
 }
@@ -156,6 +160,8 @@ color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: cornsilk;
+    border-bottom: 1px solid;
     
 
 }
@@ -198,7 +204,7 @@ color: #000000;
     text-align: center;
    
     height: 100%;
-    border: 1px solid;
+   
 }
 .fila2 div{
     width: 225px;
